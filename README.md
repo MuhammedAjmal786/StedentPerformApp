@@ -1,3 +1,3 @@
-OUTPUT APP: https://stedentperformapp-sldojc6twqjma6edds4q2z.streamlit.app/
+Take a peek at what I’ve created! 👀
 
-Let's Try it... :)
+  https://stedentperformapp-sldojc6twqjma6edds4q2z.streamlit.app

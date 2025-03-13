@@ -15,6 +15,9 @@ This repository contains implementations and analyses related to Stedent Perform
 ```
 ├── 📂 Stedent_Performance_EDA               # Exploratory Data Analysis (EDA) scripts
 ├── 📂 StedentPerform      # Streamlit-based Diabetes Prediction app
+├──  model         # Saved model using pickle
+├──  StudentPerformanceFactors        # Dataset
+├──  feature        # Preprocced Data
 ├── 📜 requirements.txt  # Dependencies
 ├── 📜 LICENSE           # License file
 ├── 📜 README.md         # Project Documentation

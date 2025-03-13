@@ -13,7 +13,6 @@ This repository contains implementations and analyses related to Stedent Perform
 
 ## 📂 Project Structure
 ```
-📦 Diabetes-Prediction
 ├── 📂 Stedent_Performance_EDA               # Exploratory Data Analysis (EDA) scripts
 ├── 📂 StedentPerform      # Streamlit-based Diabetes Prediction app
 ├── 📜 requirements.txt  # Dependencies
